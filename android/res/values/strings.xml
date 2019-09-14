@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">threedproject</string>
+    <string name="spinner_title">3D Model</string>
+    <string name="fetching">Fetching</string>
+
+</resources>
